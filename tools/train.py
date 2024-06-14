@@ -5,7 +5,6 @@ import os.path as osp
 import time
 import sys
 
-sys.path.append('./models/SegFormer/mmseg')
 
 import mmcv
 import torch
